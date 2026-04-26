@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, ich bin Hamid 👋
 
-<!--
-**hamid49174/hamid49174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Angehender Data Science Student** in Hamburg
+🤖 Interesse: **Künstliche Intelligenz · Machine Learning · Datenanalyse**
+💼 Auf der Suche nach einem **Werkstudenten-Job** in Hamburg (Data / AI / IT)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Was ich nutze
+
+**Sprachen**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Werkzeuge & Themen**
+- Python (Scripting, Automation, stdlib-only Projekte)
+- Machine Learning Grundlagen (NumPy, Pandas, scikit-learn — am Lernen)
+- Git · Linux · Windows
+- Datenanalyse & Visualisierung
+
+---
+
+### 📚 Aktuell am Lernen
+- 📊 Statistik & Wahrscheinlichkeitsrechnung für Data Science
+- 🧠 Machine Learning Foundations
+- 🐍 Saubere Python-Projekte mit Tests & Dokumentation
+
+---
+
+### 📫 Kontakt
+- 📍 Hamburg, Germany
+- ✉️ Erreichbar über GitHub
+
+---
+
+<sub>⚡ Profil im Aufbau — neue Projekte folgen!</sub>
