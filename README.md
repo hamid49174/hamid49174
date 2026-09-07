@@ -140,6 +140,22 @@ Mein `.claude/`-Setup für neue Projekte: sechs Subagents, sechs Slash-Commands,
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
+Spiegelt die eigene Spotify-Wiedergabe in einen Discord-Voice-Channel: Spotify-OAuth, Now-Playing-Abgleich, Wiedergabe über Lavalink, Slash-Commands, Docker-Compose-Setup.
+
+`TypeScript` `discord.js v14` `Lavalink v4` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### Weitere Repos
+Kundenwebsites (privat) und die Agentur-Website **NordWebSolution** (Next.js 16) folgen als eigene Repos. Alle Projekte: [github.com/hamid49174?tab=repositories](https://github.com/hamid49174?tab=repositories)
+
+</td>
+</tr>
 </table>
 
 **Kundenarbeiten** (Code in privaten Repos, Einblick auf Anfrage): Gandom Bistro Hamburg (Vite + React) · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution, meine Agentur-Website (Next.js 16)
@@ -264,6 +280,22 @@ My portfolio website. No framework, no cookies, no tracking, fonts self-hosted. 
 The `.claude/` setup I copy into every new project: six subagents, six slash commands, hooks with secret scan and dangerous-shell guard, a CLAUDE.md skeleton.
 
 `Claude Code` `Shell` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
+Mirrors your own Spotify playback into a Discord voice channel: Spotify OAuth, now-playing sync, playback via Lavalink, slash commands, Docker Compose setup.
+
+`TypeScript` `discord.js v14` `Lavalink v4` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### More repos
+Client websites (private) and my agency website **NordWebSolution** (Next.js 16) follow as separate repos. All projects: [github.com/hamid49174?tab=repositories](https://github.com/hamid49174?tab=repositories)
 
 </td>
 </tr>
