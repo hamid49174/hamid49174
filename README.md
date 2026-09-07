@@ -181,7 +181,17 @@ Ein Befehl, ein Bericht: prüft eine Website auf Technik, SEO-Grundlagen, Barrie
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### [NordWebSolution](https://github.com/hamid49174/nordwebsolution)
+<img src="https://img.shields.io/github/languages/top/hamid49174/nordwebsolution?style=flat-square&color=4d9fff" alt="Top language">
+
+Die Website meiner Web-Agentur: Landingpage mit Leistungen, Zielgruppen, Ablauf, Preisen, Abos, FAQ und Kontakt, generierte Social-Media-Vorschaubilder, JSON-LD für die Suche. Eigene Effekt-Komponenten: Cinematic Background, Grain, Marquee, Count-Up, Text-Reveal, Scroll-Progress.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind` `motion` `Lenis`
+
+</td>
+<td width="50%" valign="top">
 
 ### [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; [claude-rails](https://github.com/hamid49174/claude-rails)
 
@@ -193,7 +203,7 @@ Ein Befehl, ein Bericht: prüft eine Website auf Technik, SEO-Grundlagen, Barrie
 </tr>
 </table>
 
-<p align="center"><sub><b>Kundenarbeiten</b> (private Repos, Einblick auf Anfrage): Gandom Bistro Hamburg · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution (Agentur-Website)</sub></p>
+<p align="center"><sub><b>Kundenarbeiten</b> (private Repos, Einblick auf Anfrage): Gandom Bistro Hamburg · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-erfahrung-dark.svg">
@@ -403,7 +413,17 @@ One command, one report: checks a website for technical basics, SEO, accessibili
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### [NordWebSolution](https://github.com/hamid49174/nordwebsolution)
+<img src="https://img.shields.io/github/languages/top/hamid49174/nordwebsolution?style=flat-square&color=4d9fff" alt="Top language">
+
+My web agency's website: landing page with services, target groups, process, pricing, subscriptions, FAQ and contact, generated social preview images, JSON-LD for search. Custom effect components: cinematic background, grain, marquee, count-up, text reveal, scroll progress.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind` `motion` `Lenis`
+
+</td>
+<td width="50%" valign="top">
 
 ### [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; [claude-rails](https://github.com/hamid49174/claude-rails)
 
@@ -415,7 +435,7 @@ One command, one report: checks a website for technical basics, SEO, accessibili
 </tr>
 </table>
 
-<p align="center"><sub><b>Client work</b> (private repos, available on request): Gandom Bistro Hamburg · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution (agency website)</sub></p>
+<p align="center"><sub><b>Client work</b> (private repos, available on request): Gandom Bistro Hamburg · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-experience-dark.svg">
