@@ -164,9 +164,9 @@ Spiegelt die eigene Spotify-Wiedergabe in einen Discord-Voice-Channel: Spotify-O
 ### 📐 [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
 <img src="https://img.shields.io/github/languages/top/hamid49174/belvedere-escher-blender?style=flat-square&color=4d9fff" alt="Top language">
 
-Mathe am 3D-Modell. Eschers unmögliches *Belvedere* in Blender geladen, mit Winkel- (54°/74°), Abstands- (√2) und Koordinaten-Overlays versehen, als Vergleich Escher vs. geometrisch korrekt gerendert. Blender-Python-Skripte für Szene, Kameras und Renders.
+Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *Belvedere* als Koordinatenmodell, Ebenen, Säulen, Winkel (54°/74°) und Abstände (√2) in GeoGebra, der geometrische Widerspruch am 3D-Modell in Blender gerendert, dazu Analysis-Teil mit Integralrechnung. Skripte, GeoGebra-Dateien, Folien und Dokumentation.
 
-`Blender` `Python` `3D`
+`Blender` `Python` `GeoGebra` `Analytische Geometrie`
 
 </td>
 <td width="50%" valign="top">
@@ -376,9 +376,9 @@ Mirrors your own Spotify playback into a Discord voice channel: Spotify OAuth, n
 
 ### 📐 [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
 
-Maths on a 3D model. Escher's impossible *Belvedere* loaded into Blender, annotated with angle (54°/74°), distance (√2) and coordinate overlays, rendered as Escher vs. geometrically correct. Blender Python scripts for scene, cameras and renders.
+My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* as a coordinate model, planes, columns, angles (54°/74°) and distances (√2) in GeoGebra, the geometric contradiction rendered on a 3D model in Blender, plus a calculus part with integrals. Scripts, GeoGebra files, slides and documentation.
 
-`Blender` `Python` `3D`
+`Blender` `Python` `GeoGebra` `Analytic geometry`
 
 </td>
 <td width="50%" valign="top">
