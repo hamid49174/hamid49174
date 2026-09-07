@@ -107,7 +107,7 @@ Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zeh
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [Lexa AI](https://github.com/hamid49174/lexa-ai)
+### [Lexa AI](https://github.com/hamid49174/lexa-ai)
 <img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/github/license/hamid49174/lexa-ai?style=flat-square&color=4d9fff" alt="License"> <img src="https://img.shields.io/github/languages/code-size/hamid49174/lexa-ai?style=flat-square&color=7c5cff" alt="Code size">
 
 Lokaler KI-Desktop-Assistent für Windows. Steuert den PC per Sprache und Chat, lokal-first mit optionalen Cloud-Providern.
@@ -123,7 +123,7 @@ Lokaler KI-Desktop-Assistent für Windows. Steuert den PC per Sprache und Chat, 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Gift Wars](https://github.com/hamid49174/gift-wars)
+### [Gift Wars](https://github.com/hamid49174/gift-wars)
 <img src="https://img.shields.io/github/languages/top/hamid49174/gift-wars?style=flat-square&color=4d9fff" alt="Top language"> <img src="https://img.shields.io/github/languages/code-size/hamid49174/gift-wars?style=flat-square&color=7c5cff" alt="Code size">
 
 TikTok-LIVE-Overlay-Spiel. Zuschauer werden per Kommentar zu Spielern in einer 16:9-Arena, Gifts geben Punkte und Größe, stärkere Spieler werfen schwächere per Kollision raus.
@@ -139,7 +139,7 @@ TikTok-LIVE-Overlay-Spiel. Zuschauer werden per Kommentar zu Spielern in einer 1
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [FinanzPilot](https://github.com/hamid49174/finanzpilot)
+### [FinanzPilot](https://github.com/hamid49174/finanzpilot)
 <img src="https://img.shields.io/github/languages/top/hamid49174/finanzpilot?style=flat-square&color=4d9fff" alt="Top language">
 
 Finanz-Dashboard-UI mit selbst gebauten Chart-Komponenten: Bar, Donut, Sparkline, Progress-Ring. WebGL-Shader-Hintergrund, Liquid-Glass-Buttons, sieben Seiten von Dashboard bis Sparziele. Beispieldaten, kein Backend.
@@ -149,7 +149,7 @@ Finanz-Dashboard-UI mit selbst gebauten Chart-Komponenten: Bar, Donut, Sparkline
 </td>
 <td width="50%" valign="top">
 
-### 🎵 [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
+### [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
 <img src="https://img.shields.io/github/languages/top/hamid49174/discord-spotify-sync-bot?style=flat-square&color=4d9fff" alt="Top language">
 
 Spiegelt die eigene Spotify-Wiedergabe in einen Discord-Voice-Channel: Spotify-OAuth, Now-Playing-Abgleich, Wiedergabe über Lavalink, Slash-Commands, Docker-Compose-Setup.
@@ -161,7 +161,7 @@ Spiegelt die eigene Spotify-Wiedergabe in einen Discord-Voice-Channel: Spotify-O
 <tr>
 <td width="50%" valign="top">
 
-### 📐 [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
+### [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
 <img src="https://img.shields.io/github/languages/top/hamid49174/belvedere-escher-blender?style=flat-square&color=4d9fff" alt="Top language">
 
 Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *Belvedere* als Koordinatenmodell, Ebenen, Säulen, Winkel (54°/74°) und Abstände (√2) in GeoGebra, der geometrische Widerspruch am 3D-Modell in Blender gerendert, dazu Analysis-Teil mit Integralrechnung. Skripte, GeoGebra-Dateien, Folien und Dokumentation.
@@ -171,7 +171,7 @@ Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; 🛤️ [claude-rails](https://github.com/hamid49174/claude-rails)
+### [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; [claude-rails](https://github.com/hamid49174/claude-rails)
 
 **ahamid.de:** meine Portfolio-Website ohne Framework, ohne Cookies, ohne Tracking. Partikelnetz, 3D-Tilt, magnetische Buttons, Timeline, alles mit `prefers-reduced-motion`.
 
@@ -203,10 +203,10 @@ Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *
 
 **Bildung & Zertifikate**
 
-- 🎓 **TU Hamburg** · Data Science (B.Sc.) · immatrikuliert ab 10/2026
-- 🎓 **Abitur 2026** · Stadtteilschule Poppenbüttel · Schwerpunkte Mathematik und Informatik
-- 📜 **Google Data Analysis with Python** · Coursera-Spezialisierung, 6 Kurse (2026)
-- 📜 **Foundations of Python Programming** · Packt / Coursera (2026)
+- **TU Hamburg** · Data Science (B.Sc.) · immatrikuliert ab 10/2026
+- **Abitur 2026** · Stadtteilschule Poppenbüttel · Schwerpunkte Mathematik und Informatik
+- **Google Data Analysis with Python** · Coursera-Spezialisierung, 6 Kurse (2026)
+- **Foundations of Python Programming** · Packt / Coursera (2026)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-stats-dark.svg">
@@ -220,6 +220,10 @@ Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hamid49174&hide_border=true&background=00000000&ring=7c5cff&fire=22d3ee&currStreakLabel=4d9fff&sideLabels=8b9bb0&dates=8b9bb0&currStreakNum=e8eef6&sideNums=e8eef6&locale=de" height="170" alt="Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid49174&bg_color=00000000&color=8b9bb0&line=4d9fff&point=22d3ee&area=true&area_color=4d9fff&hide_border=true&custom_title=Aktivit%C3%A4t%20der%20letzten%2030%20Tage&hide_title=false" width="100%" alt="Aktivitätsgraph">
 </p>
 
 <picture>
@@ -322,7 +326,7 @@ Since 2025 I also build **websites and social-media presences for more than ten 
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [Lexa AI](https://github.com/hamid49174/lexa-ai)
+### [Lexa AI](https://github.com/hamid49174/lexa-ai)
 <img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/github/license/hamid49174/lexa-ai?style=flat-square&color=4d9fff" alt="License">
 
 Local AI desktop assistant for Windows. Controls the PC by voice and chat, local-first with optional cloud providers.
@@ -338,7 +342,7 @@ Local AI desktop assistant for Windows. Controls the PC by voice and chat, local
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Gift Wars](https://github.com/hamid49174/gift-wars)
+### [Gift Wars](https://github.com/hamid49174/gift-wars)
 <img src="https://img.shields.io/github/languages/top/hamid49174/gift-wars?style=flat-square&color=4d9fff" alt="Top language">
 
 TikTok LIVE overlay game. Viewers join a 16:9 arena by commenting, gifts add score and size, stronger players knock out weaker ones on collision.
@@ -354,7 +358,7 @@ TikTok LIVE overlay game. Viewers join a 16:9 arena by commenting, gifts add sco
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [FinanzPilot](https://github.com/hamid49174/finanzpilot)
+### [FinanzPilot](https://github.com/hamid49174/finanzpilot)
 
 Personal-finance dashboard UI with hand-built chart components: bar, donut, sparkline, progress ring. WebGL shader background, liquid-glass buttons, seven pages from dashboard to savings goals. Sample data, no backend.
 
@@ -363,7 +367,7 @@ Personal-finance dashboard UI with hand-built chart components: bar, donut, spar
 </td>
 <td width="50%" valign="top">
 
-### 🎵 [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
+### [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
 
 Mirrors your own Spotify playback into a Discord voice channel: Spotify OAuth, now-playing sync, playback via Lavalink, slash commands, Docker Compose setup.
 
@@ -374,7 +378,7 @@ Mirrors your own Spotify playback into a Discord voice channel: Spotify OAuth, n
 <tr>
 <td width="50%" valign="top">
 
-### 📐 [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
+### [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
 
 My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* as a coordinate model, planes, columns, angles (54°/74°) and distances (√2) in GeoGebra, the geometric contradiction rendered on a 3D model in Blender, plus a calculus part with integrals. Scripts, GeoGebra files, slides and documentation.
 
@@ -383,7 +387,7 @@ My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; 🛤️ [claude-rails](https://github.com/hamid49174/claude-rails)
+### [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; [claude-rails](https://github.com/hamid49174/claude-rails)
 
 **ahamid.de:** my portfolio site without framework, cookies or tracking. Particle network, 3D tilt, magnetic buttons, timeline, all respecting `prefers-reduced-motion`.
 
@@ -415,10 +419,10 @@ My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* 
 
 **Education & certificates**
 
-- 🎓 **Hamburg University of Technology (TUHH)** · Data Science (B.Sc.) · enrolled from 10/2026
-- 🎓 **Abitur 2026** · Stadtteilschule Poppenbüttel · focus on mathematics and computer science
-- 📜 **Google Data Analysis with Python** · Coursera specialisation, 6 courses (2026)
-- 📜 **Foundations of Python Programming** · Packt / Coursera (2026)
+- **Hamburg University of Technology (TUHH)** · Data Science (B.Sc.) · enrolled from 10/2026
+- **Abitur 2026** · Stadtteilschule Poppenbüttel · focus on mathematics and computer science
+- **Google Data Analysis with Python** · Coursera specialisation, 6 courses (2026)
+- **Foundations of Python Programming** · Packt / Coursera (2026)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-stats-dark.svg">
@@ -429,6 +433,10 @@ My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&include_all_commits=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8" height="170" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid49174&bg_color=00000000&color=8b9bb0&line=4d9fff&point=22d3ee&area=true&area_color=4d9fff&hide_border=true&custom_title=Activity%20over%20the%20last%2030%20days" width="100%" alt="Activity graph">
 </p>
 
 <picture>
