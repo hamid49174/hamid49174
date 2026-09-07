@@ -171,11 +171,21 @@ Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *
 </td>
 <td width="50%" valign="top">
 
+### [site-check](https://github.com/hamid49174/site-check)
+<img src="https://github.com/hamid49174/site-check/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/badge/Tests-18-4d9fff?style=flat-square" alt="Tests">
+
+Ein Befehl, ein Bericht: prüft eine Website auf Technik, SEO-Grundlagen, Barrierefreiheit, kaputte Links und Sicherheits-Header. 17 Prüfungen mit Punktzahl, Rich-Tabelle oder JSON, Exit-Codes für CI. Entstanden aus meiner Kundenarbeit: Beim ersten Lauf hat es auf einer Live-Seite fehlende Sicherheits-Header gefunden.
+
+`Python` `requests` `BeautifulSoup` `Rich` `pytest`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; [claude-rails](https://github.com/hamid49174/claude-rails)
 
-**ahamid.de:** meine Portfolio-Website ohne Framework, ohne Cookies, ohne Tracking. Partikelnetz, 3D-Tilt, magnetische Buttons, Timeline, alles mit `prefers-reduced-motion`.
-
-**claude-rails:** mein `.claude/`-Setup für neue Projekte mit sechs Subagents, sechs Slash-Commands, Secret-Scan-Hook und CLAUDE.md-Skelett.
+**ahamid.de:** meine Portfolio-Website ohne Framework, ohne Cookies, ohne Tracking. Partikelnetz, 3D-Tilt, magnetische Buttons, Timeline, alles mit `prefers-reduced-motion`. &nbsp;·&nbsp; **claude-rails:** mein `.claude/`-Setup für neue Projekte mit sechs Subagents, sechs Slash-Commands, Secret-Scan-Hook und CLAUDE.md-Skelett.
 
 `HTML` `CSS` `JavaScript` `Claude Code` `Shell`
 
@@ -383,11 +393,21 @@ My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* 
 </td>
 <td width="50%" valign="top">
 
+### [site-check](https://github.com/hamid49174/site-check)
+<img src="https://github.com/hamid49174/site-check/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/badge/Tests-18-4d9fff?style=flat-square" alt="Tests">
+
+One command, one report: checks a website for technical basics, SEO, accessibility, broken links and security headers. 17 checks with a score, Rich table or JSON, exit codes for CI. Born from client work: on its first run it caught missing security headers on a live site.
+
+`Python` `requests` `BeautifulSoup` `Rich` `pytest`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; [claude-rails](https://github.com/hamid49174/claude-rails)
 
-**ahamid.de:** my portfolio site without framework, cookies or tracking. Particle network, 3D tilt, magnetic buttons, timeline, all respecting `prefers-reduced-motion`.
-
-**claude-rails:** the `.claude/` setup I copy into every new project: six subagents, six slash commands, secret-scan hook, CLAUDE.md skeleton.
+**ahamid.de:** my portfolio site without framework, cookies or tracking. Particle network, 3D tilt, magnetic buttons, timeline, all respecting `prefers-reduced-motion`. &nbsp;·&nbsp; **claude-rails:** the `.claude/` setup I copy into every new project: six subagents, six slash commands, secret-scan hook, CLAUDE.md skeleton.
 
 `HTML` `CSS` `JavaScript` `Claude Code` `Shell`
 
