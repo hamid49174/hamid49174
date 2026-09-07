@@ -222,10 +222,6 @@ Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *
   <img src="https://streak-stats.demolab.com?user=hamid49174&hide_border=true&background=00000000&ring=7c5cff&fire=22d3ee&currStreakLabel=4d9fff&sideLabels=8b9bb0&dates=8b9bb0&currStreakNum=e8eef6&sideNums=e8eef6&locale=de" height="170" alt="Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid49174&bg_color=00000000&color=8b9bb0&line=4d9fff&point=22d3ee&area=true&area_color=4d9fff&hide_border=true&custom_title=Aktivit%C3%A4t%20der%20letzten%2030%20Tage&hide_title=false" width="100%" alt="Aktivitätsgraph">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake.svg">
@@ -433,10 +429,6 @@ My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&include_all_commits=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8" height="170" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid49174&bg_color=00000000&color=8b9bb0&line=4d9fff&point=22d3ee&area=true&area_color=4d9fff&hide_border=true&custom_title=Activity%20over%20the%20last%2030%20days" width="100%" alt="Activity graph">
 </p>
 
 <picture>
