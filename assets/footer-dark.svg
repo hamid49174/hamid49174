@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#4d9fff"/></linearGradient></defs>
+<path fill="url(#g)" opacity=".85" d="M0 60 C 200 20, 400 100, 600 60 S 1000 20, 1200 60 V120 H0 Z">
+  <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 60 C 200 20, 400 100, 600 60 S 1000 20, 1200 60 V120 H0 Z;M0 60 C 200 100, 400 20, 600 60 S 1000 100, 1200 60 V120 H0 Z;M0 60 C 200 20, 400 100, 600 60 S 1000 20, 1200 60 V120 H0 Z"/>
+</path>
+<path fill="url(#g)" opacity=".45" d="M0 80 C 300 40, 500 110, 800 70 S 1100 40, 1200 80 V120 H0 Z">
+  <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 80 C 300 40, 500 110, 800 70 S 1100 40, 1200 80 V120 H0 Z;M0 80 C 300 110, 500 40, 800 90 S 1100 110, 1200 80 V120 H0 Z;M0 80 C 300 40, 500 110, 800 70 S 1100 40, 1200 80 V120 H0 Z"/>
+</path>
+<text x="600" y="108" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="#ffffff" opacity=".9">AHAMID.DE · MAIL@AHAMID.DE · HAMBURG</text>
+</svg>

@@ -1,68 +1,87 @@
 <a id="top"></a>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4d9fff,50:22d3ee,100:7c5cff&text=Abdraoof%20Hamid&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=IT-Support%20%C2%B7%20Web%20%26%20KI-Automatisierung%20%C2%B7%20Data%20Science&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Abdraoof Hamid">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" width="100%" alt="Abdraoof Hamid – IT-Support · Webentwicklung & KI-Automatisierung · Data Science">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2600&pause=800&color=4D9FFF&center=true&vCenter=true&width=720&lines=IT-Support+%C2%B7+Webentwicklung+%C2%B7+KI-Automatisierung;Data+Science+(B.Sc.)+%40+TU+Hamburg+ab+10%2F2026;Websites+f%C3%BCr+%C3%BCber+zehn+Kunden;Building+Lexa+AI+%E2%80%93+a+local+AI+desktop+assistant;Open+for+working+student+roles+in+Hamburg" alt="Typing">
-</p>
-
-<p align="center">
-  <a href="#de"><img src="https://img.shields.io/badge/🇩🇪_Deutsch-4d9fff?style=for-the-badge&logoColor=white" alt="Deutsch"></a>
+  <a href="#de"><img src="https://img.shields.io/badge/Deutsch-4d9fff?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Deutsch"></a>
   &nbsp;
-  <a href="#en"><img src="https://img.shields.io/badge/🇬🇧_English-7c5cff?style=for-the-badge&logoColor=white" alt="English"></a>
+  <a href="#en"><img src="https://img.shields.io/badge/English-7c5cff?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ahamid.de"><img src="https://img.shields.io/badge/ahamid.de-Website-0b0f17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  &nbsp;
+  <a href="mailto:mail@ahamid.de"><img src="https://img.shields.io/badge/mail%40ahamid.de-Kontakt-0b0f17?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-Mail"></a>
 </p>
 
-<p align="center">
-  <a href="https://ahamid.de"><img src="https://img.shields.io/badge/ahamid.de-Website-0b0f17?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:mail@ahamid.de"><img src="https://img.shields.io/badge/mail%40ahamid.de-E--Mail-0b0f17?style=flat-square&logo=maildotru&logoColor=white" alt="E-Mail"></a>
-  <img src="https://img.shields.io/badge/Hamburg-Germany-0b0f17?style=flat-square&logo=googlemaps&logoColor=white" alt="Hamburg">
-  <img src="https://img.shields.io/badge/Status-open_for_working_student_roles-34d399?style=flat-square" alt="Open for working student roles">
-  <img src="https://komarev.com/ghpvc/?username=hamid49174&style=flat-square&color=4d9fff&label=Profilaufrufe" alt="Profilaufrufe">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/marquee-light.svg">
+  <img src="assets/marquee-dark.svg" width="100%" alt="Tech-Stack: Python, FastAPI, React, Next.js, Node.js, Electron, Claude Code, Docker, Blender">
+</picture>
 
 <br>
 
-<!-- ═══════════════════════════ DEUTSCH ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════ DEUTSCH ═══════════════════════════════════════════ -->
 <a id="de"></a>
 <details open>
-<summary><h2>🇩🇪 Deutsch</h2></summary>
+<summary><b>🇩🇪 &nbsp;Deutsch</b> &nbsp;<sub>(zum Einklappen klicken)</sub></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-ueber-mich-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-ueber-mich-light.svg">
+  <img src="assets/divider-ueber-mich-dark.svg" width="100%" alt="Über mich">
+</picture>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
-### Hi, ich bin Hamid.
+### Zwischen Support-Ticket, Code und Datensatz.
 
-Abitur im Juni 2026 mit Schwerpunkt Mathematik und Informatik, ab Oktober 2026 **Data Science (B.Sc.) an der TU Hamburg**. Seit 2023 Praxis im IT-Support (Zetes, Otto Krahn Group, Gess Phone and Field), 2026 Mitarbeit in einem **KI-Projekt zur Prozessautomatisierung bei Zetes**. Nebenberuflich baue ich **Websites und Social-Media-Auftritte für über zehn Kunden**. Ehrenamtlich trainiere ich die U8 beim SC Alstertal-Langenhorn.
+Ich bin 2006 in Homs geboren, in Hamburg aufgewachsen und habe im Juni 2026 mein **Abitur mit Schwerpunkt Mathematik und Informatik** gemacht. Ab Oktober 2026 studiere ich **Data Science (B.Sc.) an der TU Hamburg**.
 
-Ich suche einen **Werkstudenten-Job in Hamburg** in Data, KI oder IT.
+Mein Weg in die IT war praktisch: Scanner und Handhelds reparieren bei **Zetes**, Callcenter-Rechner betreuen bei **Gess Phone and Field**, IT-Support-Praktikum bei der **Otto Krahn Group**. 2026 durfte ich bei Zetes in einem **KI-Projekt zur Automatisierung wiederkehrender Abläufe** mitarbeiten: Prozesse analysieren, Lösungen testen, dokumentieren.
 
-- 🖥️ Baue **Lexa AI**, einen lokalen KI-Desktop-Assistenten für Windows
-- 🤖 Arbeite täglich mit **Claude Code**, **OpenAI Codex** und **Antigravity**
-- 📊 Lerne gerade Statistik, Pandas und saubere Python-Projekte mit Tests
-- 🗣️ Arabisch (Muttersprache) · Deutsch (verhandlungssicher) · Englisch (C1) · Spanisch (Grundkenntnisse)
+Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zehn Kunden** und eigene Software wie **Lexa AI**, einen lokalen KI-Desktop-Assistenten mit 1834 automatisierten Tests.
+
+**Ich suche einen Werkstudenten-Job in Hamburg**, in dem ich Support, Entwicklung und Daten verbinden kann.
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="36%" valign="top" align="center">
 
-<img src="https://github.com/hamid49174.png" width="200" style="border-radius:50%" alt="Abdraoof Hamid">
+<img src="https://github.com/hamid49174.png" width="190" alt="Abdraoof Hamid">
 
-<br><br>
+<br>
 
 | | |
-|---|---|
-| 📍 | Hamburg |
+|:--|:--|
+| 📍 | Hamburg, Deutschland |
 | 🎓 | TUHH · Data Science ab 10/2026 |
 | 💼 | Freelance Web & Social Media |
-| ⚽ | Jugendtrainer U8 (SCALA) |
+| ⚽ | Jugendtrainer U8 · SC Alstertal-Langenhorn |
+| 🗣️ | Arabisch · Deutsch · Englisch C1 · Spanisch |
 
 </td>
 </tr>
 </table>
 
-### 🛠️ Tech-Stack
+<table>
+<tr>
+<td align="center" width="25%"><h3>10+</h3>Kunden-Websites<br>konzipiert und umgesetzt</td>
+<td align="center" width="25%"><h3>138+</h3>PC-Befehle<br>in Lexa AI</td>
+<td align="center" width="25%"><h3>1834</h3>automatisierte Tests,<br>grün auf GitHub Actions</td>
+<td align="center" width="25%"><h3>5</h3>Praxisstationen in IT,<br>Support und KI seit 2023</td>
+</tr>
+</table>
+
+#### Womit ich arbeite
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,js,ts,html,css,react,nextjs,tailwind,nodejs,electron,git,github,githubactions,vscode,powershell,windows,docker,blender,ps,pr,ae,figma&perline=12" alt="Tech-Stack">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,js,ts,html,css,react,nextjs,tailwind,nodejs,electron&perline=12" alt="Sprachen und Frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,windows,docker,blender,ps,pr,ae,figma&perline=12" alt="Tools">
 </p>
 
 <p align="center">
@@ -72,33 +91,46 @@ Ich suche einen **Werkstudenten-Job in Hamburg** in Data, KI oder IT.
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
+  <img src="https://img.shields.io/badge/Lavalink-FF5555?style=flat-square" alt="Lavalink">
 </p>
 
-### 🚀 Projekte
+> **Wie ich arbeite:** KI-gestützt und mit Verantwortung. Claude Code, Codex und Antigravity gehören zu meinem Werkzeugkasten, so wie Git und ein Editor. Was zählt, ist das Ergebnis: Tests, die durchlaufen, Code, den ich erklären kann, und Projekte, die im Alltag benutzt werden.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-projekte-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-projekte-light.svg">
+  <img src="assets/divider-projekte-dark.svg" width="100%" alt="Projekte">
+</picture>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Lexa AI](https://github.com/hamid49174/lexa-ai) &nbsp;<img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI">
-Lokaler KI-Desktop-Assistent für Windows. Steuert den PC per Sprache und Chat, lokal-first mit optionalen Cloud-Providern.
-- 138+ PC-Befehle, Voice-Pipeline (Deepgram, Whisper, Cartesia, SAPI)
-- Browser-Automation mit Playwright, Gedächtnis mit SQLite FTS5
-- 3-Tier-Whitelist, Prompt-Injection-Defense, Audit-Log
-- **1834 Tests**, Quality Gates und Release-Checks auf GitHub Actions
+### 🖥️ [Lexa AI](https://github.com/hamid49174/lexa-ai)
+<img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/github/license/hamid49174/lexa-ai?style=flat-square&color=4d9fff" alt="License"> <img src="https://img.shields.io/github/languages/code-size/hamid49174/lexa-ai?style=flat-square&color=7c5cff" alt="Code size">
 
-`Python` `FastAPI` `Electron` `SQLite` `Playwright`
+Lokaler KI-Desktop-Assistent für Windows. Steuert den PC per Sprache und Chat, lokal-first mit optionalen Cloud-Providern.
+
+- **138+ PC-Befehle:** Apps, Fenster, Prozesse, Netzwerk, Dienste, Autostart
+- **Voice-Pipeline:** Deepgram, Groq Whisper, faster-whisper · Cartesia, ElevenLabs, SAPI
+- **Browser-Automation** mit Playwright, **Gedächtnis** mit SQLite FTS5
+- **Sicherheit:** 3-Tier-Whitelist, Prompt-Injection-Defense, Rate Limiting, Audit-Log
+- **Qualität:** 1834 Tests, Quality Gates, Release-Checks, PyInstaller-Build
+
+`Python` `FastAPI` `Electron` `SQLite` `Playwright` `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-#### [Gift Wars](https://github.com/hamid49174/gift-wars)
-TikTok-LIVE-Overlay: Zuschauer werden per Kommentar zu Spielern in einer 16:9-Arena, Gifts geben Punkte und Größe, stärkere Spieler werfen schwächere per Kollision raus.
-- Echtzeit über Socket.io, Canvas-Arena mit Profilbildern
-- 3-Minuten-Runden, Combo-Multiplikator, Power-Tiers, Top-10
-- Variante **Country Race** mit Länderflaggen
+### 🎮 [Gift Wars](https://github.com/hamid49174/gift-wars)
+<img src="https://img.shields.io/github/languages/top/hamid49174/gift-wars?style=flat-square&color=4d9fff" alt="Top language"> <img src="https://img.shields.io/github/languages/code-size/hamid49174/gift-wars?style=flat-square&color=7c5cff" alt="Code size">
+
+TikTok-LIVE-Overlay-Spiel. Zuschauer werden per Kommentar zu Spielern in einer 16:9-Arena, Gifts geben Punkte und Größe, stärkere Spieler werfen schwächere per Kollision raus.
+
+- **Echtzeit** über Socket.io, Canvas-Arena mit TikTok-Profilbildern
+- **3-Minuten-Runden**, Combo-Multiplikator, Power-Tiers, Top-10-Leaderboard
+- Variante **Country Race** mit Länderflaggen und Rennmodus
 
 `Node.js` `Express` `Socket.io` `React` `Vite`
 
@@ -107,67 +139,109 @@ TikTok-LIVE-Overlay: Zuschauer werden per Kommentar zu Spielern in einer 16:9-Ar
 <tr>
 <td width="50%" valign="top">
 
-#### [FinanzPilot](https://github.com/hamid49174/finanzpilot)
-Finanz-Dashboard-UI mit selbst gebauten Chart-Komponenten: Bar, Donut, Sparkline, Progress-Ring. WebGL-Shader-Hintergrund und Liquid-Glass-Buttons. Beispieldaten, kein Backend.
+### 📊 [FinanzPilot](https://github.com/hamid49174/finanzpilot)
+<img src="https://img.shields.io/github/languages/top/hamid49174/finanzpilot?style=flat-square&color=4d9fff" alt="Top language">
 
-`Next.js` `React` `shadcn/ui` `Tailwind` `WebGL`
+Finanz-Dashboard-UI mit selbst gebauten Chart-Komponenten: Bar, Donut, Sparkline, Progress-Ring. WebGL-Shader-Hintergrund, Liquid-Glass-Buttons, sieben Seiten von Dashboard bis Sparziele. Beispieldaten, kein Backend.
 
-</td>
-<td width="50%" valign="top">
-
-#### [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
-Mathe am 3D-Modell: Eschers unmögliches *Belvedere* in Blender geladen, mit Winkel- (54°/74°), Abstands- (√2) und Koordinaten-Overlays versehen und als Vergleich Escher vs. geometrisch korrekt gerendert.
-
-`Blender` `Python` `3D`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [ahamid.de](https://github.com/hamid49174/ahamid.de)
-Meine Portfolio-Website. Ohne Framework, ohne Cookies, ohne Tracking, Schriften lokal. Partikelnetz, 3D-Tilt, magnetische Buttons, Timeline, alles mit `prefers-reduced-motion`.
-
-`HTML` `CSS` `JavaScript`
+`Next.js` `React` `TypeScript` `shadcn/ui` `Tailwind` `WebGL`
 
 </td>
 <td width="50%" valign="top">
 
-#### [claude-rails](https://github.com/hamid49174/claude-rails)
-Mein `.claude/`-Setup für neue Projekte: sechs Subagents, sechs Slash-Commands, Hooks mit Secret-Scan und Guard für gefährliche Shell-Befehle, CLAUDE.md-Skelett.
+### 🎵 [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
+<img src="https://img.shields.io/github/languages/top/hamid49174/discord-spotify-sync-bot?style=flat-square&color=4d9fff" alt="Top language">
 
-`Claude Code` `Shell` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
 Spiegelt die eigene Spotify-Wiedergabe in einen Discord-Voice-Channel: Spotify-OAuth, Now-Playing-Abgleich, Wiedergabe über Lavalink, Slash-Commands, Docker-Compose-Setup.
 
 `TypeScript` `discord.js v14` `Lavalink v4` `Docker`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-#### Weitere Repos
-Kundenwebsites (privat) und die Agentur-Website **NordWebSolution** (Next.js 16) folgen als eigene Repos. Alle Projekte: [github.com/hamid49174?tab=repositories](https://github.com/hamid49174?tab=repositories)
+### 📐 [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
+<img src="https://img.shields.io/github/languages/top/hamid49174/belvedere-escher-blender?style=flat-square&color=4d9fff" alt="Top language">
+
+Mathe am 3D-Modell. Eschers unmögliches *Belvedere* in Blender geladen, mit Winkel- (54°/74°), Abstands- (√2) und Koordinaten-Overlays versehen, als Vergleich Escher vs. geometrisch korrekt gerendert. Blender-Python-Skripte für Szene, Kameras und Renders.
+
+`Blender` `Python` `3D`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; 🛤️ [claude-rails](https://github.com/hamid49174/claude-rails)
+
+**ahamid.de:** meine Portfolio-Website ohne Framework, ohne Cookies, ohne Tracking. Partikelnetz, 3D-Tilt, magnetische Buttons, Timeline, alles mit `prefers-reduced-motion`.
+
+**claude-rails:** mein `.claude/`-Setup für neue Projekte mit sechs Subagents, sechs Slash-Commands, Secret-Scan-Hook und CLAUDE.md-Skelett.
+
+`HTML` `CSS` `JavaScript` `Claude Code` `Shell`
 
 </td>
 </tr>
 </table>
 
-**Kundenarbeiten** (Code in privaten Repos, Einblick auf Anfrage): Gandom Bistro Hamburg (Vite + React) · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution, meine Agentur-Website (Next.js 16)
+<p align="center"><sub><b>Kundenarbeiten</b> (private Repos, Einblick auf Anfrage): Gandom Bistro Hamburg · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution (Agentur-Website)</sub></p>
 
-### 📈 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-erfahrung-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-erfahrung-light.svg">
+  <img src="assets/divider-erfahrung-dark.svg" width="100%" alt="Erfahrung">
+</picture>
+
+| Zeitraum | Station | Was ich gemacht habe |
+|:--|:--|:--|
+| seit 03/2025 | **Freiberuflich** · Webentwicklung, Social Media & Marketing | Websites für über zehn Kunden konzipiert und umgesetzt, Social-Media-Betreuung, Content, Online-Marketing |
+| 07 – 08/2026 | **Zetes GmbH** · KI-Projekt & Prozessautomatisierung | Mitarbeit im KI-Projekt zur Automatisierung wiederkehrender Abläufe, Prozessanalyse, Test und Dokumentation |
+| 07/2025 – 07/2026 | **Studyheads** · Aushilfe | Einsätze bei Kunden, u. a. Aufbau von Stadion-Werbeflächen |
+| 07/2024 – 07/2025 | **Gess Phone and Field** · IT-Support Callcenter | Einrichtung und Betreuung der Callcenter-Software, First-Level-Support, Monitoring der Rechner |
+| 09/2023 | **Otto Krahn Group** · Praktikum IT-Support | Betreuung und Wartung von IT-Systemen im Betriebsalltag |
+| 07/2023 | **Zetes GmbH** · Repair & Service | Fehlerdiagnose, Reparatur und Funktionsprüfung von Scannern und Handhelds |
+| seit 2025 | **SC Alstertal-Langenhorn e.V.** · Jugendtrainer U8 | Wöchentliches Training planen und leiten, Spiele und Turniere, Ansprechpartner für Eltern |
+
+**Bildung & Zertifikate**
+
+- 🎓 **TU Hamburg** · Data Science (B.Sc.) · immatrikuliert ab 10/2026
+- 🎓 **Abitur 2026** · Stadtteilschule Poppenbüttel · Schwerpunkte Mathematik und Informatik
+- 📜 **Google Data Analysis with Python** · Coursera-Spezialisierung, 6 Kurse (2026)
+- 📜 **Foundations of Python Programming** · Packt / Coursera (2026)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-stats-light.svg">
+  <img src="assets/divider-stats-dark.svg" width="100%" alt="Stats">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&locale=de" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8&locale=de" height="165" alt="Top-Sprachen">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&locale=de&include_all_commits=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8&locale=de" height="170" alt="Top-Sprachen">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamid49174&hide_border=true&background=00000000&ring=7c5cff&fire=22d3ee&currStreakLabel=4d9fff&sideLabels=8b9bb0&dates=8b9bb0&currStreakNum=e8eef6&sideNums=e8eef6&locale=de" height="165" alt="Streak">
+  <img src="https://streak-stats.demolab.com?user=hamid49174&hide_border=true&background=00000000&ring=7c5cff&fire=22d3ee&currStreakLabel=4d9fff&sideLabels=8b9bb0&dates=8b9bb0&currStreakNum=e8eef6&sideNums=e8eef6&locale=de" height="170" alt="Streak">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake-dark.svg" width="100%" alt="Contribution snake">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-kontakt-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-kontakt-light.svg">
+  <img src="assets/divider-kontakt-dark.svg" width="100%" alt="Kontakt">
+</picture>
+
+<p align="center">
+  <b>Werkstudenten-Job in Data, KI oder IT in Hamburg? Website oder Social Media für dein Unternehmen?</b><br>
+  <sub>Eine E-Mail reicht. Antwort in der Regel innerhalb von 24 Stunden.</sub>
+</p>
+<p align="center">
+  <a href="mailto:mail@ahamid.de"><img src="https://img.shields.io/badge/mail%40ahamid.de-4d9fff?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-Mail"></a>
+  <a href="https://ahamid.de"><img src="https://img.shields.io/badge/ahamid.de-0b0f17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/hamid49174?tab=repositories"><img src="https://img.shields.io/badge/Alle_Repos-0b0f17?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
 </p>
 
 <p align="right"><a href="#top">↑ nach oben</a></p>
@@ -175,73 +249,103 @@ Kundenwebsites (privat) und die Agentur-Website **NordWebSolution** (Next.js 16)
 
 <br>
 
-<!-- ═══════════════════════════ ENGLISH ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════ ENGLISH ═══════════════════════════════════════════ -->
 <a id="en"></a>
 <details>
-<summary><h2>🇬🇧 English</h2></summary>
+<summary><b>🇬🇧 &nbsp;English</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-about-light.svg">
+  <img src="assets/divider-about-dark.svg" width="100%" alt="About">
+</picture>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
-### Hi, I'm Hamid.
+### Between support ticket, code and dataset.
 
-Graduated from high school in June 2026 with a focus on mathematics and computer science; starting **Data Science (B.Sc.) at Hamburg University of Technology (TUHH)** in October 2026. Hands-on IT support experience since 2023 (Zetes, Otto Krahn Group, Gess Phone and Field) and, in 2026, part of an **AI process-automation project at Zetes**. On the side I build **websites and social-media presences for more than ten clients**. I also coach an under-8 football team at SC Alstertal-Langenhorn.
+Born in Homs in 2006, raised in Hamburg. I finished high school in June 2026 with a **focus on mathematics and computer science** and start **Data Science (B.Sc.) at Hamburg University of Technology (TUHH)** in October 2026.
 
-I'm looking for a **working student position in Hamburg** in data, AI or IT.
+My way into IT was hands-on: repairing scanners and handhelds at **Zetes**, looking after call-centre PCs at **Gess Phone and Field**, an IT-support internship at **Otto Krahn Group**. In 2026 I joined an **AI project at Zetes automating recurring workflows**: analysing processes, testing solutions, writing documentation.
 
-- 🖥️ Building **Lexa AI**, a local AI desktop assistant for Windows
-- 🤖 Working daily with **Claude Code**, **OpenAI Codex** and **Antigravity**
-- 📊 Currently learning statistics, Pandas and clean, tested Python projects
-- 🗣️ Arabic (native) · German (fluent, business level) · English (C1) · Spanish (basics)
+Since 2025 I also build **websites and social-media presences for more than ten clients**, plus my own software such as **Lexa AI**, a local AI desktop assistant backed by 1,834 automated tests.
+
+**I'm looking for a working student position in Hamburg** where support, development and data meet.
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="36%" valign="top" align="center">
 
-<img src="https://github.com/hamid49174.png" width="200" style="border-radius:50%" alt="Abdraoof Hamid">
+<img src="https://github.com/hamid49174.png" width="190" alt="Abdraoof Hamid">
 
-<br><br>
+<br>
 
 | | |
-|---|---|
+|:--|:--|
 | 📍 | Hamburg, Germany |
 | 🎓 | TUHH · Data Science from 10/2026 |
 | 💼 | Freelance web & social media |
 | ⚽ | Youth football coach U8 |
+| 🗣️ | Arabic · German · English C1 · Spanish |
 
 </td>
 </tr>
 </table>
 
-### 🛠️ Tech stack
+<table>
+<tr>
+<td align="center" width="25%"><h3>10+</h3>client websites<br>designed and built</td>
+<td align="center" width="25%"><h3>138+</h3>PC commands<br>in Lexa AI</td>
+<td align="center" width="25%"><h3>1,834</h3>automated tests,<br>green on GitHub Actions</td>
+<td align="center" width="25%"><h3>5</h3>hands-on roles in IT,<br>support and AI since 2023</td>
+</tr>
+</table>
+
+#### What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,js,ts,html,css,react,nextjs,tailwind,nodejs,electron,git,github,githubactions,vscode,powershell,windows,docker,blender,ps,pr,ae,figma&perline=12" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,js,ts,html,css,react,nextjs,tailwind,nodejs,electron&perline=12" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,windows,docker,blender,ps,pr,ae,figma&perline=12" alt="Tools">
 </p>
 
-### 🚀 Projects
+> **How I work:** AI-assisted and accountable. Claude Code, Codex and Antigravity are part of my toolbox, just like Git and an editor. What counts is the result: tests that pass, code I can explain, and projects people actually use.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-projects-light.svg">
+  <img src="assets/divider-projects-dark.svg" width="100%" alt="Projects">
+</picture>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Lexa AI](https://github.com/hamid49174/lexa-ai) &nbsp;<img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI">
-Local AI desktop assistant for Windows. Controls the PC by voice and chat, local-first with optional cloud providers.
-- 138+ PC commands, voice pipeline (Deepgram, Whisper, Cartesia, SAPI)
-- Browser automation with Playwright, memory with SQLite FTS5
-- 3-tier whitelist, prompt-injection defense, audit log
-- **1,834 tests**, quality gates and release checks on GitHub Actions
+### 🖥️ [Lexa AI](https://github.com/hamid49174/lexa-ai)
+<img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/github/license/hamid49174/lexa-ai?style=flat-square&color=4d9fff" alt="License">
 
-`Python` `FastAPI` `Electron` `SQLite` `Playwright`
+Local AI desktop assistant for Windows. Controls the PC by voice and chat, local-first with optional cloud providers.
+
+- **138+ PC commands:** apps, windows, processes, network, services, autostart
+- **Voice pipeline:** Deepgram, Groq Whisper, faster-whisper · Cartesia, ElevenLabs, SAPI
+- **Browser automation** with Playwright, **memory** with SQLite FTS5
+- **Security:** 3-tier whitelist, prompt-injection defense, rate limiting, audit log
+- **Quality:** 1,834 tests, quality gates, release checks, PyInstaller build
+
+`Python` `FastAPI` `Electron` `SQLite` `Playwright` `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-#### [Gift Wars](https://github.com/hamid49174/gift-wars)
-TikTok LIVE overlay: viewers join a 16:9 arena as circles by commenting, gifts add score and size, stronger players knock out weaker ones on collision.
-- Real-time via Socket.io, canvas arena with profile pictures
-- 3-minute rounds, combo multiplier, power tiers, top-10 leaderboard
-- **Country Race** variant with country flags
+### 🎮 [Gift Wars](https://github.com/hamid49174/gift-wars)
+<img src="https://img.shields.io/github/languages/top/hamid49174/gift-wars?style=flat-square&color=4d9fff" alt="Top language">
+
+TikTok LIVE overlay game. Viewers join a 16:9 arena by commenting, gifts add score and size, stronger players knock out weaker ones on collision.
+
+- **Real-time** via Socket.io, canvas arena with TikTok profile pictures
+- **3-minute rounds**, combo multiplier, power tiers, top-10 leaderboard
+- **Country Race** variant with country flags and race mode
 
 `Node.js` `Express` `Socket.io` `React` `Vite`
 
@@ -250,80 +354,104 @@ TikTok LIVE overlay: viewers join a 16:9 arena as circles by commenting, gifts a
 <tr>
 <td width="50%" valign="top">
 
-#### [FinanzPilot](https://github.com/hamid49174/finanzpilot)
-Personal-finance dashboard UI with hand-built chart components: bar, donut, sparkline, progress ring. WebGL shader background and liquid-glass buttons. Sample data, no backend.
+### 📊 [FinanzPilot](https://github.com/hamid49174/finanzpilot)
 
-`Next.js` `React` `shadcn/ui` `Tailwind` `WebGL`
+Personal-finance dashboard UI with hand-built chart components: bar, donut, sparkline, progress ring. WebGL shader background, liquid-glass buttons, seven pages from dashboard to savings goals. Sample data, no backend.
 
-</td>
-<td width="50%" valign="top">
-
-#### [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
-Maths on a 3D model: Escher's impossible *Belvedere* loaded into Blender, annotated with angle (54°/74°), distance (√2) and coordinate overlays, rendered as Escher vs. geometrically correct.
-
-`Blender` `Python` `3D`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [ahamid.de](https://github.com/hamid49174/ahamid.de)
-My portfolio website. No framework, no cookies, no tracking, fonts self-hosted. Particle network, 3D tilt, magnetic buttons, timeline, all respecting `prefers-reduced-motion`.
-
-`HTML` `CSS` `JavaScript`
+`Next.js` `React` `TypeScript` `shadcn/ui` `Tailwind` `WebGL`
 
 </td>
 <td width="50%" valign="top">
 
-#### [claude-rails](https://github.com/hamid49174/claude-rails)
-The `.claude/` setup I copy into every new project: six subagents, six slash commands, hooks with secret scan and dangerous-shell guard, a CLAUDE.md skeleton.
+### 🎵 [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
 
-`Claude Code` `Shell` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [Discord Spotify Sync Bot](https://github.com/hamid49174/discord-spotify-sync-bot)
 Mirrors your own Spotify playback into a Discord voice channel: Spotify OAuth, now-playing sync, playback via Lavalink, slash commands, Docker Compose setup.
 
 `TypeScript` `discord.js v14` `Lavalink v4` `Docker`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-#### More repos
-Client websites (private) and my agency website **NordWebSolution** (Next.js 16) follow as separate repos. All projects: [github.com/hamid49174?tab=repositories](https://github.com/hamid49174?tab=repositories)
+### 📐 [Belvedere-Escher](https://github.com/hamid49174/belvedere-escher-blender)
+
+Maths on a 3D model. Escher's impossible *Belvedere* loaded into Blender, annotated with angle (54°/74°), distance (√2) and coordinate overlays, rendered as Escher vs. geometrically correct. Blender Python scripts for scene, cameras and renders.
+
+`Blender` `Python` `3D`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [ahamid.de](https://github.com/hamid49174/ahamid.de) &nbsp;·&nbsp; 🛤️ [claude-rails](https://github.com/hamid49174/claude-rails)
+
+**ahamid.de:** my portfolio site without framework, cookies or tracking. Particle network, 3D tilt, magnetic buttons, timeline, all respecting `prefers-reduced-motion`.
+
+**claude-rails:** the `.claude/` setup I copy into every new project: six subagents, six slash commands, secret-scan hook, CLAUDE.md skeleton.
+
+`HTML` `CSS` `JavaScript` `Claude Code` `Shell`
 
 </td>
 </tr>
 </table>
 
-**Client work** (code in private repos, available on request): Gandom Bistro Hamburg (Vite + React) · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution, my agency website (Next.js 16)
+<p align="center"><sub><b>Client work</b> (private repos, available on request): Gandom Bistro Hamburg · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld · NordWebSolution (agency website)</sub></p>
 
-### 📈 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-experience-light.svg">
+  <img src="assets/divider-experience-dark.svg" width="100%" alt="Experience">
+</picture>
+
+| Period | Role | What I did |
+|:--|:--|:--|
+| since 03/2025 | **Freelance** · web development, social media & marketing | Designed and built websites for 10+ clients, social-media management, content, online marketing |
+| 07 – 08/2026 | **Zetes GmbH** · AI project & process automation | Contributed to an AI project automating recurring workflows; process analysis, testing, documentation |
+| 07/2025 – 07/2026 | **Studyheads** · temp staff | On-site client assignments, e.g. setting up stadium advertising |
+| 07/2024 – 07/2025 | **Gess Phone and Field** · IT support, call centre | Set up and maintained call-centre software, first-level support, PC monitoring |
+| 09/2023 | **Otto Krahn Group** · IT support internship | Maintenance and support of IT systems in daily operations |
+| 07/2023 | **Zetes GmbH** · repair & service | Diagnosis, repair and testing of scanners and handhelds |
+| since 2025 | **SC Alstertal-Langenhorn e.V.** · youth coach U8 | Plan and run weekly training, matches and tournaments, point of contact for parents |
+
+**Education & certificates**
+
+- 🎓 **Hamburg University of Technology (TUHH)** · Data Science (B.Sc.) · enrolled from 10/2026
+- 🎓 **Abitur 2026** · Stadtteilschule Poppenbüttel · focus on mathematics and computer science
+- 📜 **Google Data Analysis with Python** · Coursera specialisation, 6 courses (2026)
+- 📜 **Foundations of Python Programming** · Packt / Coursera (2026)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-stats-light.svg">
+  <img src="assets/divider-stats-dark.svg" width="100%" alt="Stats">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8" height="165" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&include_all_commits=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8" height="170" alt="Top languages">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-contact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-contact-light.svg">
+  <img src="assets/divider-contact-dark.svg" width="100%" alt="Contact">
+</picture>
+
+<p align="center">
+  <b>Working student role in data, AI or IT in Hamburg? A website or social media for your business?</b><br>
+  <sub>One e-mail is enough. I usually reply within 24 hours.</sub>
+</p>
+<p align="center">
+  <a href="mailto:mail@ahamid.de"><img src="https://img.shields.io/badge/mail%40ahamid.de-4d9fff?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <a href="https://ahamid.de"><img src="https://img.shields.io/badge/ahamid.de-0b0f17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/hamid49174?tab=repositories"><img src="https://img.shields.io/badge/All_repos-0b0f17?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
 </p>
 
 <p align="right"><a href="#top">↑ back to top</a></p>
 </details>
 
-<br>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake-dark.svg" width="100%" alt="Contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-dark.svg" width="100%" alt="">
 </picture>
-
-<p align="center">
-  <a href="https://ahamid.de">ahamid.de</a> · <a href="mailto:mail@ahamid.de">mail@ahamid.de</a> · Hamburg
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c5cff,50:22d3ee,100:4d9fff" width="100%" alt="">
