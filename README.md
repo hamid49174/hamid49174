@@ -203,7 +203,7 @@ Die Website meiner Web-Agentur: Landingpage mit Leistungen, Zielgruppen, Ablauf,
 </tr>
 </table>
 
-<p align="center"><sub><b>Kundenarbeiten</b> (private Repos, Einblick auf Anfrage): Gandom Bistro Hamburg · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
+<p align="center"><sub><b>Kundenarbeiten</b> (private Repos, Einblick auf Anfrage): Emy Nails Poppenbüttel (Next.js, Terminbuchung) · Gandom Bistro Hamburg · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-erfahrung-dark.svg">
@@ -434,7 +434,7 @@ My web agency's website: landing page with services, target groups, process, pri
 </tr>
 </table>
 
-<p align="center"><sub><b>Client work</b> (private repos, available on request): Gandom Bistro Hamburg · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
+<p align="center"><sub><b>Client work</b> (private repos, available on request): Emy Nails Poppenbüttel (Next.js, online booking) · Gandom Bistro Hamburg · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-experience-dark.svg">
