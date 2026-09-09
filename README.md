@@ -110,6 +110,8 @@ Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zeh
 ### [Lexa AI](https://github.com/hamid49174/lexa-ai)
 <img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/github/license/hamid49174/lexa-ai?style=flat-square&color=4d9fff" alt="License"> <img src="https://img.shields.io/github/languages/code-size/hamid49174/lexa-ai?style=flat-square&color=7c5cff" alt="Code size">
 
+<img src="assets/work/lexa-card.webp" width="100%" alt="Lexa AI – Oberfläche">
+
 Lokaler KI-Desktop-Assistent für Windows. Steuert den PC per Sprache und Chat, lokal-first mit optionalen Cloud-Providern.
 
 - **138+ PC-Befehle:** Apps, Fenster, Prozesse, Netzwerk, Dienste, Autostart
@@ -400,6 +402,8 @@ Since 2025 I also build **websites and social-media presences for more than ten 
 
 ### [Lexa AI](https://github.com/hamid49174/lexa-ai)
 <img src="https://github.com/hamid49174/lexa-ai/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/github/license/hamid49174/lexa-ai?style=flat-square&color=4d9fff" alt="License">
+
+<img src="assets/work/lexa-card.webp" width="100%" alt="Lexa AI – interface">
 
 Local AI desktop assistant for Windows. Controls the PC by voice and chat, local-first with optional cloud providers.
 
