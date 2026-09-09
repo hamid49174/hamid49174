@@ -284,13 +284,6 @@ Entwurf und Umsetzung, jeweils Desktop und Mobil. Der Code der Kundenprojekte li
   <img src="assets/divider-stats-dark.svg" width="100%" alt="Stats">
 </picture>
 
-<p align="center">
-  <img src="assets/metrics-dark.svg" width="100%" alt="GitHub-Metriken: Aktivität, Sprachen, Commits, Kalender">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamid49174&hide_border=true&background=00000000&ring=7c5cff&fire=22d3ee&currStreakLabel=4d9fff&sideLabels=8b9bb0&dates=8b9bb0&currStreakNum=e8eef6&sideNums=e8eef6&locale=de" height="170" alt="Streak">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamid49174/hamid49174/output/github-snake.svg">
@@ -564,10 +557,6 @@ Design and build, desktop and mobile. Client code lives in private repos, availa
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-stats-light.svg">
   <img src="assets/divider-stats-dark.svg" width="100%" alt="Stats">
 </picture>
-
-<p align="center">
-  <img src="assets/metrics-dark.svg" width="100%" alt="GitHub-Metriken: Aktivität, Sprachen, Commits, Kalender">
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-contact-dark.svg">
