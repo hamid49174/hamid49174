@@ -235,8 +235,7 @@ Die Website meiner Web-Agentur: Landingpage mit Leistungen, Zielgruppen, Ablauf,
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&locale=de&include_all_commits=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8&locale=de" height="170" alt="Top-Sprachen">
+  <img src="assets/metrics-dark.svg" width="100%" alt="GitHub-Metriken: Aktivität, Sprachen, Commits, Kalender">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hamid49174&hide_border=true&background=00000000&ring=7c5cff&fire=22d3ee&currStreakLabel=4d9fff&sideLabels=8b9bb0&dates=8b9bb0&currStreakNum=e8eef6&sideNums=e8eef6&locale=de" height="170" alt="Streak">
@@ -467,8 +466,7 @@ My web agency's website: landing page with services, target groups, process, pri
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamid49174&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d9fff&icon_color=22d3ee&text_color=8b9bb0&ring_color=7c5cff&include_all_commits=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid49174&layout=compact&hide_border=true&bg_color=00000000&title_color=4d9fff&text_color=8b9bb0&langs_count=8" height="170" alt="Top languages">
+  <img src="assets/metrics-dark.svg" width="100%" alt="GitHub-Metriken: Aktivität, Sprachen, Commits, Kalender">
 </p>
 
 <picture>
