@@ -45,7 +45,7 @@ Ich bin 2006 in Homs geboren, in Hamburg aufgewachsen und habe im Juni 2026 mein
 
 Mein Weg in die IT war praktisch: Scanner und Handhelds reparieren bei **Zetes**, Callcenter-Rechner betreuen bei **Gess Phone and Field**, IT-Support-Praktikum bei der **Otto Krahn Group**. 2026 durfte ich bei Zetes in einem **KI-Projekt zur Automatisierung wiederkehrender Abläufe** mitarbeiten: Prozesse analysieren, Lösungen testen, dokumentieren.
 
-Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zehn Kunden** und eigene Software wie **Lexa AI**, einen lokalen KI-Desktop-Assistenten mit 1834 automatisierten Tests.
+Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zehn Kunden** und eigene Software wie **Lexa AI**, einen lokalen KI-Desktop-Assistenten für Windows.
 
 **Ich suche einen Werkstudenten-Job in Hamburg**, in dem ich Support, Entwicklung und Daten verbinden kann.
 
@@ -65,15 +65,6 @@ Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zeh
 | 🗣️ | Arabisch · Deutsch · Englisch C1 · Spanisch |
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="25%"><h3>10+</h3>Kunden-Websites<br>konzipiert und umgesetzt</td>
-<td align="center" width="25%"><h3>138+</h3>PC-Befehle<br>in Lexa AI</td>
-<td align="center" width="25%"><h3>1834</h3>automatisierte Tests,<br>grün auf GitHub Actions</td>
-<td align="center" width="25%"><h3>5</h3>Praxisstationen in IT,<br>Support und KI seit 2023</td>
 </tr>
 </table>
 
@@ -114,11 +105,11 @@ Parallel baue ich seit 2025 **Websites und Social-Media-Auftritte für über zeh
 
 Lokaler KI-Desktop-Assistent für Windows. Steuert den PC per Sprache und Chat, lokal-first mit optionalen Cloud-Providern.
 
-- **138+ PC-Befehle:** Apps, Fenster, Prozesse, Netzwerk, Dienste, Autostart
+- **PC-Steuerung:** Apps, Fenster, Prozesse, Netzwerk, Dienste, Autostart
 - **Voice-Pipeline:** Deepgram, Groq Whisper, faster-whisper · Cartesia, ElevenLabs, SAPI
 - **Browser-Automation** mit Playwright, **Gedächtnis** mit SQLite FTS5
 - **Sicherheit:** 3-Tier-Whitelist, Prompt-Injection-Defense, Rate Limiting, Audit-Log
-- **Qualität:** 1834 Tests, Quality Gates, Release-Checks, PyInstaller-Build
+- **Qualität:** automatisierte Tests, Quality Gates und Release-Checks auf GitHub Actions
 
 `Python` `FastAPI` `Electron` `SQLite` `Playwright` `Gemini`
 
@@ -174,9 +165,9 @@ Meine Präsentationsprüfung im Abitur 2026 (Mathematik): Eschers unmögliches *
 <td width="50%" valign="top">
 
 ### [site-check](https://github.com/hamid49174/site-check)
-<img src="https://github.com/hamid49174/site-check/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/badge/Tests-18-4d9fff?style=flat-square" alt="Tests">
+<img src="https://github.com/hamid49174/site-check/actions/workflows/ci.yml/badge.svg" alt="CI">
 
-Ein Befehl, ein Bericht: prüft eine Website auf Technik, SEO-Grundlagen, Barrierefreiheit, kaputte Links und Sicherheits-Header. 17 Prüfungen mit Punktzahl, Rich-Tabelle oder JSON, Exit-Codes für CI. Entstanden aus meiner Kundenarbeit: Beim ersten Lauf hat es auf einer Live-Seite fehlende Sicherheits-Header gefunden.
+Ein Befehl, ein Bericht: prüft eine Website auf Technik, SEO-Grundlagen, Barrierefreiheit, kaputte Links und Sicherheits-Header. Ergebnis als Tabelle mit Punktzahl oder als JSON, Exit-Codes für CI. Entstanden aus meiner Kundenarbeit: Beim ersten Lauf hat es auf einer Live-Seite fehlende Sicherheits-Header gefunden.
 
 `Python` `requests` `BeautifulSoup` `Rich` `pytest`
 
@@ -349,7 +340,7 @@ Born in Homs in 2006, raised in Hamburg. I finished high school in June 2026 wit
 
 My way into IT was hands-on: repairing scanners and handhelds at **Zetes**, looking after call-centre PCs at **Gess Phone and Field**, an IT-support internship at **Otto Krahn Group**. In 2026 I joined an **AI project at Zetes automating recurring workflows**: analysing processes, testing solutions, writing documentation.
 
-Since 2025 I also build **websites and social-media presences for more than ten clients**, plus my own software such as **Lexa AI**, a local AI desktop assistant backed by 1,834 automated tests.
+Since 2025 I also build **websites and social-media presences for more than ten clients**, plus my own software such as **Lexa AI**, a local AI desktop assistant for Windows.
 
 **I'm looking for a working student position in Hamburg** where support, development and data meet.
 
@@ -369,15 +360,6 @@ Since 2025 I also build **websites and social-media presences for more than ten 
 | 🗣️ | Arabic · German · English C1 · Spanish |
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="25%"><h3>10+</h3>client websites<br>designed and built</td>
-<td align="center" width="25%"><h3>138+</h3>PC commands<br>in Lexa AI</td>
-<td align="center" width="25%"><h3>1,834</h3>automated tests,<br>green on GitHub Actions</td>
-<td align="center" width="25%"><h3>5</h3>hands-on roles in IT,<br>support and AI since 2023</td>
 </tr>
 </table>
 
@@ -407,11 +389,11 @@ Since 2025 I also build **websites and social-media presences for more than ten 
 
 Local AI desktop assistant for Windows. Controls the PC by voice and chat, local-first with optional cloud providers.
 
-- **138+ PC commands:** apps, windows, processes, network, services, autostart
+- **PC control:** apps, windows, processes, network, services, autostart
 - **Voice pipeline:** Deepgram, Groq Whisper, faster-whisper · Cartesia, ElevenLabs, SAPI
 - **Browser automation** with Playwright, **memory** with SQLite FTS5
 - **Security:** 3-tier whitelist, prompt-injection defense, rate limiting, audit log
-- **Quality:** 1,834 tests, quality gates, release checks, PyInstaller build
+- **Quality:** automated tests, quality gates and release checks on GitHub Actions
 
 `Python` `FastAPI` `Electron` `SQLite` `Playwright` `Gemini`
 
@@ -464,9 +446,9 @@ My final-exam maths presentation (Abitur 2026): Escher's impossible *Belvedere* 
 <td width="50%" valign="top">
 
 ### [site-check](https://github.com/hamid49174/site-check)
-<img src="https://github.com/hamid49174/site-check/actions/workflows/ci.yml/badge.svg" alt="CI"> <img src="https://img.shields.io/badge/Tests-18-4d9fff?style=flat-square" alt="Tests">
+<img src="https://github.com/hamid49174/site-check/actions/workflows/ci.yml/badge.svg" alt="CI">
 
-One command, one report: checks a website for technical basics, SEO, accessibility, broken links and security headers. 17 checks with a score, Rich table or JSON, exit codes for CI. Born from client work: on its first run it caught missing security headers on a live site.
+One command, one report: checks a website for technical basics, SEO, accessibility, broken links and security headers. Result as a scored table or JSON, exit codes for CI. Born from client work: on its first run it caught missing security headers on a live site.
 
 `Python` `requests` `BeautifulSoup` `Rich` `pytest`
 

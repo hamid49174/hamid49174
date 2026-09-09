@@ -33,9 +33,8 @@
       <animate attributeName="x" values="213;275;337;244;399;213" keyTimes="0.000;0.200;0.400;0.600;0.800;1" calcMode="discrete" dur="16.0s" repeatCount="indefinite"/></rect>
     <g transform="translate(52 300)" font-size="13" font-weight="600" letter-spacing=".8" fill="#8b9bb0">
       <text x="0" y="0">HAMBURG</text><text x="110" y="0" fill="#4d9fff">◆</text>
-      <text x="132" y="0">TUHH · DATA SCIENCE</text><text x="318" y="0" fill="#4d9fff">◆</text>
-      <text x="340" y="0">LEXA AI · 1834 TESTS GRÜN</text><text x="586" y="0" fill="#4d9fff">◆</text>
-      <text x="608" y="0">10+ KUNDEN-WEBSITES</text>
+      <text x="132" y="0">TUHH · DATA SCIENCE AB 10/2026</text><text x="420" y="0" fill="#4d9fff">◆</text>
+      <text x="442" y="0">WEB · KI-AUTOMATISIERUNG · IT-SUPPORT</text>
     </g>
   </g>
   <rect x="0" y="337" width="1200" height="3" fill="url(#grad)"/>
