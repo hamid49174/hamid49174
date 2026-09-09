@@ -203,7 +203,64 @@ Die Website meiner Web-Agentur: Landingpage mit Leistungen, Zielgruppen, Ablauf,
 </tr>
 </table>
 
-<p align="center"><sub><b>Kundenarbeiten</b> (private Repos, Einblick auf Anfrage): Emy Nails Poppenbüttel (Next.js, Terminbuchung) · Gandom Bistro Hamburg · G&A Clean Concept Gebäudeservice Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-webdesign-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-webdesign-light.svg">
+  <img src="assets/divider-webdesign-dark.svg" width="100%" alt="Webdesign">
+</picture>
+
+Entwurf und Umsetzung, jeweils Desktop und Mobil. Der Code der Kundenprojekte liegt in privaten Repos, Einblick auf Anfrage.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/work/gandom-card.webp" width="100%" alt="Gandom Bistro">
+
+**Gandom Bistro** · Restaurant, Hamburg<br>
+<sub>Vite · React · motion</sub>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/work/emy-nails-card.webp" width="100%" alt="Emy Nails">
+
+**Emy Nails** · Nagelstudio, Hamburg<br>
+<sub>Next.js 16 · Tailwind · Online-Terminbuchung</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/work/nordwebsolution-card.webp" width="100%" alt="NordWebSolution">
+
+**NordWebSolution** · Web-Agentur, eigene Marke<br>
+<sub>Next.js 16 · React 19 · Tailwind · motion</sub>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/work/ga-cleanconcept-card.webp" width="100%" alt="G&A Clean Concept">
+
+**G&A Clean Concept** · Gebäudeservice, Hamburg<br>
+<sub>HTML · CSS · JavaScript</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/work/italiana-card.webp" width="100%" alt="Italiana Pizza e Caffè">
+
+**Italiana Pizza e Caffè** · Pizzeria, Bielefeld<br>
+<sub>HTML · CSS · JavaScript</sub>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/work/ahamid-card.webp" width="100%" alt="ahamid.de">
+
+**ahamid.de** · eigene Portfolio-Website<br>
+<sub>HTML · CSS · JavaScript, ohne Framework</sub>
+
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-erfahrung-dark.svg">
@@ -434,7 +491,64 @@ My web agency's website: landing page with services, target groups, process, pri
 </tr>
 </table>
 
-<p align="center"><sub><b>Client work</b> (private repos, available on request): Emy Nails Poppenbüttel (Next.js, online booking) · Gandom Bistro Hamburg · G&A Clean Concept building services Hamburg · Italiana Pizza e Caffè Bielefeld</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-web-design-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-web-design-light.svg">
+  <img src="assets/divider-web-design-dark.svg" width="100%" alt="Web design">
+</picture>
+
+Design and build, desktop and mobile. Client code lives in private repos, available on request.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/work/gandom-card.webp" width="100%" alt="Gandom Bistro">
+
+**Gandom Bistro** · Restaurant, Hamburg<br>
+<sub>Vite · React · motion</sub>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/work/emy-nails-card.webp" width="100%" alt="Emy Nails">
+
+**Emy Nails** · Nail studio, Hamburg<br>
+<sub>Next.js 16 · Tailwind · Online-Terminbuchung</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/work/nordwebsolution-card.webp" width="100%" alt="NordWebSolution">
+
+**NordWebSolution** · Web agency, own brand<br>
+<sub>Next.js 16 · React 19 · Tailwind · motion</sub>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/work/ga-cleanconcept-card.webp" width="100%" alt="G&A Clean Concept">
+
+**G&A Clean Concept** · Building services, Hamburg<br>
+<sub>HTML · CSS · JavaScript</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/work/italiana-card.webp" width="100%" alt="Italiana Pizza e Caffè">
+
+**Italiana Pizza e Caffè** · Pizzeria, Bielefeld<br>
+<sub>HTML · CSS · JavaScript</sub>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/work/ahamid-card.webp" width="100%" alt="ahamid.de">
+
+**ahamid.de** · my own portfolio site<br>
+<sub>HTML · CSS · JavaScript, ohne Framework</sub>
+
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-experience-dark.svg">
